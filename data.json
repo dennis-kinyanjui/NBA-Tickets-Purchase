@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "homeTeam": "Los Angeles Lakers",
+      "awayTeam": "Golden State Warriors",
+      "date": "2024-04-10",
+      "time": "18:00",
+      "ticketsLeft": 500
+    },
+    {
+      "id": 2,
+      "homeTeam": "Boston Celtics",
+      "awayTeam": "Miami Heat",
+      "date": "2024-04-12",
+      "time": "19:30",
+      "ticketsLeft": 300
+    },
+    {
+      "id": 3,
+      "homeTeam": "Chicago Bulls",
+      "awayTeam": "New York Knicks",
+      "date": "2024-04-15",
+      "time": "20:00",
+      "ticketsLeft": 200
+    },
+    {
+      "id": 4,
+      "homeTeam": "Los Angeles Clippers",
+      "awayTeam": "Toronto Raptors",
+      "date": "2024-04-17",
+      "time": "19:00",
+      "ticketsLeft": 450
+    },
+    {
+      "id": 5,
+      "homeTeam": "Houston Rockets",
+      "awayTeam": "Dallas Mavericks",
+      "date": "2024-04-20",
+      "time": "20:30",
+      "ticketsLeft": 350
+    }
+  ]
+  
